@@ -5,16 +5,16 @@
     {
       "name": "paper-maker",
       "source": {
-        "source": "github",
-        "repo": "timon-strauss/paper-maker-plugin"
+        "source": "url",
+        "url": "https://github.com/timon-strauss/paper-maker-plugin.git"
       },
       "description": "AI assistant in Claude Code that guides SAP dual students through writing academic papers."
     },
     {
       "name": "notification-plugin",
       "source": {
-        "source": "github",
-        "repo": "timon-strauss/notification-plugin"
+        "source": "url",
+        "url": "https://github.com/timon-strauss/notification-plugin.git"
       },
       "description": "Focus-aware macOS notifications for Claude Code — only notifies when your terminal tab isn't in the foreground."
     }
