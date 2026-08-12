@@ -1,0 +1,22 @@
+{
+  "name": "Timons-plugins-marketplace",
+  "owner": { "name": "Timon Strauß" },
+  "plugins": [
+    {
+      "name": "paper-maker",
+      "source": {
+        "source": "github",
+        "repo": "timon-strauss/paper-maker-plugin"
+      },
+      "description": "AI assistant in Claude Code that guides SAP dual students through writing academic papers."
+    },
+    {
+      "name": "notification-plugin",
+      "source": {
+        "source": "github",
+        "repo": "timon-strauss/notification-plugin"
+      },
+      "description": "Focus-aware macOS notifications for Claude Code — only notifies when your terminal tab isn't in the foreground."
+    }
+  ]
+}
